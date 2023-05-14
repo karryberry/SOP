@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SOP/static/css/main.e5d22c89.css",
+    "main.js": "/SOP/static/js/main.fc5e1a1d.js",
+    "static/js/787.69ea4f3a.chunk.js": "/SOP/static/js/787.69ea4f3a.chunk.js",
+    "index.html": "/SOP/index.html",
+    "main.e5d22c89.css.map": "/SOP/static/css/main.e5d22c89.css.map",
+    "main.fc5e1a1d.js.map": "/SOP/static/js/main.fc5e1a1d.js.map",
+    "787.69ea4f3a.chunk.js.map": "/SOP/static/js/787.69ea4f3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5d22c89.css",
+    "static/js/main.fc5e1a1d.js"
+  ]
+}
