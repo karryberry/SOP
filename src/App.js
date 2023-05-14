@@ -28,8 +28,8 @@ function App() {
     <Fragment>
       {authenticated && <Navbar onClick={handleAuthenticateFalse}/>}
         <Routes>
-          {!authenticated && <Route path="/" element={<SignIn onClick={handleAuthenticateTrue}/>} />}
-          <Route path="/" element={<GeneralHomeTable/>}/>
+          {!authenticated && <Route path="/Home" element={<SignIn onClick={handleAuthenticateTrue}/>} />}
+          <Route path="/Home" element={<GeneralHomeTable/>}/>
           <Route path="/SOPs" element={<AdminHomeTable/>}/>
           <Route path="/JobRoles" element={<JobRoleTable/>}/>
           <Route path="/Users" element={<UserTable/>}/>
