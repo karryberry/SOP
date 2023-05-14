@@ -6,7 +6,6 @@ import "../components/css/Navbar.css";
 export default function Navbar(props) {
 
     return(
-        <HashRouter basename="/">
             <nav>
                 <img className = "nav--logo" src="./i4i.png" alt="i4i logo"/>
                 <ul className="nav-pages">
@@ -51,8 +50,6 @@ export default function Navbar(props) {
                         </Link>
                     </li>
                 </ul>
-            </nav>
-        </HashRouter>
-        
+            </nav>        
     )    
 }
