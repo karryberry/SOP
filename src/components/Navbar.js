@@ -11,7 +11,7 @@ export default function Navbar(props) {
                 <img className = "nav--logo" src="./i4i.png" alt="i4i logo"/>
                 <ul className="nav-pages">
                     <li>
-                        <Link to="/">
+                        <Link to="/Home">
                             <NavButton navButtonName="HOME"></NavButton>
                         </Link>
                     </li>

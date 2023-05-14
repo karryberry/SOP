@@ -29,7 +29,7 @@ function App() {
       {authenticated && <Navbar onClick={handleAuthenticateFalse}/>}
         <Routes>
           {!authenticated && <Route path="/" element={<SignIn onClick={handleAuthenticateTrue}/>} />}
-          <Route path="/" element={<GeneralHomeTable/>}/>
+          <Route path="/Home" element={<GeneralHomeTable/>}/>
           <Route path="/SOPs" element={<AdminHomeTable/>}/>
           <Route path="/JobRoles" element={<JobRoleTable/>}/>
           <Route path="/Users" element={<UserTable/>}/>
