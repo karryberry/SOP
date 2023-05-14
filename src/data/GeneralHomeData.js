@@ -1,0 +1,110 @@
+export default [
+    {
+        id: 1,
+        title: "CP-01 Organization",
+        status: false,
+        completionDate: "",
+    },
+    {
+        id: 2,
+        title: "CP-02 Quality Manual",
+        status: false,
+        completionDate: "",
+    },
+    {
+        id: 3,
+        title: "CP-03 Business Community",
+        status: false,
+        completionDate: "",
+    },
+    {
+        id: 4,
+        title: "CP-04 Strategic Plan",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 5,
+        title: "CS-01-01 i4i Software Maintenance Support SLA",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 6,
+        title: "C2-01 Customer Support",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 7,
+        title: "CS-02-01 Customer PM & XML PM Conversions",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 8,
+        title: "C2-03 Shipping",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 9,
+        title: "SD-02-02 Digitally Signing Software Components",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 10,
+        title: "CP-01 Organization",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 11,
+        title: "CP-02 Quality Manual",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 12,
+        title: "CP-03 Business Community",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 13,
+        title: "CP-04 Strategic Plan",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 14,
+        title: "CS-01-01 i4i Software Maintenance Support SLA",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 15,
+        title: "C2-01 Customer Support",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 16,
+        title: "CS-02-01 Customer PM & XML PM Conversions",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 17,
+        title: "C2-03 Shipping",
+        status: false,
+        completionDate: "", 
+    },
+    {
+        id: 18,
+        title: "SD-02-02 Digitally Signing Software Components",
+        status: false,
+        completionDate: "", 
+    }
+]

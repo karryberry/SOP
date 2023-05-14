@@ -1,0 +1,16 @@
+.generateReport {
+    border: none;
+    border-radius: 24px;
+    padding: 15px 20px;
+    color: white;
+    background-color: #DD0895;
+    font-weight: 700;
+    margin-left: 10%;
+    font-size: 16px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.generateReport:active {
+    transform: scale(.98);
+}
