@@ -1,7 +1,7 @@
 {
-  "name": "soptest",
+  "name": "SOP Review Portal",
   "version": "0.1.0",
-  "homepage": "https://karryberry.github.io/SOP-Review-Portal",
+  "homepage": "https://karryberry.github.io/SOP-Review-Portal/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
