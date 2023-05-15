@@ -10,6 +10,6 @@ The SOP Review Portal allows for an organized and accessible method for employee
 - Add, edit, and delete Users and Job Roles
 
 ## Tech Stack
-Front-end: React and Material-UI
-Database: MySQL
+- Front-end: React and Material-UI
+- Database: MySQL
 
