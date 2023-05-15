@@ -3,15 +3,13 @@ The SOP Review Portal allows for an organized and accessible method for employee
 
 ## Features and Functions
 - Admin/user sign in system
-- Dashboard: displays summary of the categories
-- CRUD operations to manage SOPs, Users, and Job Roles
+- Dashboard: displays pages
 - Create and delete SOP to Job role and User to Job Role relations
 - Add, edit, and delete SOPs and open them as a PDFs
 - Add, edit, and delete Users and Job Roles
 
 ## Tech Stack
 - Front-end: React and Material-UI
-- Database: MySQL
 
 ![Sign In page](https://github.com/karryberry/SOP/blob/master/public/readme/SignIn.png?raw=true)
 
